@@ -22,4 +22,6 @@ It is vital to acknowledge the significant risks associated with participating i
 
 <a href="http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion"><img src="/components/tile.webp" alt="image" style="max-width: 100%;"></a>  <a href="http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion"><img src="/components/center.webp" alt="image" style="max-width: 100%;"></a>
 
-Update:  14.07.2025 Repaired dead links in configuration examples
+
+
+Update:  18 July
