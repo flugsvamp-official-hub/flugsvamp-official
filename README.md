@@ -26,4 +26,6 @@ It is vital to acknowledge the significant risks associated with participating i
 
 
 
-Update:  07/21/2025
+
+
+Update: url is now operational and accessible
